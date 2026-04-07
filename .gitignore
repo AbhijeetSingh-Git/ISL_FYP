@@ -1,0 +1,29 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Datasets and Private Media
+videos/
+dataset/
+*.mp4
+*.avi
+*.mov
+
+# Models (Optional: if you don't want to upload large model files)
+models/
+*.h5
+*.npy
+*.npz
+
+# Temporary files
+*.log
+.temp/
+.tmp/
+output_audio.mp3
