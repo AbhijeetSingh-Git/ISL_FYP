@@ -17,7 +17,7 @@ A comprehensive, end-to-end Final Year Project for recognizing Indian Sign Langu
 
 ## 🛠️ Technology Stack
 
-* **Programming Language**: Python
+* **Programming Language**: Python 3.10
 * **Computer Vision**: OpenCV, MediaPipe
 * **Deep Learning Framework**: TensorFlow / Keras (LSTM architecture)
 * **Data Processing**: NumPy, Scikit-learn
